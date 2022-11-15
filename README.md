@@ -1,2 +1,2 @@
 # azure_python_app
-Running python-app in azure
+Test repo for running python-app in azure
